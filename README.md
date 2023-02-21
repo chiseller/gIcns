@@ -1,5 +1,5 @@
 # gIcns
-png 生成icns脚本工具
+png 快速生成icns的脚本工具
 使用方法：
 
 ```
